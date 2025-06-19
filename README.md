@@ -36,7 +36,8 @@ This app was built to:
 
 - Clone this repo:
    ```bash
-   git clone https://github.com/your-username/lemon-squeezer.git ```
+   git clone https://github.com/your-username/lemon-squeezer.git
+   ```
 
 ## Preview 
 
